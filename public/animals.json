@@ -1,0 +1,20 @@
+[
+  {
+    "content": "Последний раз видели на Бакунина 115",
+    "header": "Кот Кузя",
+    "email": "kuzya@ya.ru",
+    "img": "/images/cat.jpg"
+  },
+  {
+    "content": "Последний раз видели около шаурмячной",
+    "header": "Собака Чара",
+    "email": "chara@ya.ru",
+    "img": "/images/dog.jpeg"
+  },
+  {
+    "content": "Анкета: ящерица Пётр, порода варан, возраст 55 лет",
+    "header": "ящерица Пётр",
+    "email": "user@example.com",
+    "img": "/images/varan.jpg"
+  }
+]
